@@ -43,7 +43,7 @@
     
 }
 
-.seracch-container{
+.search-container{
     padding: 10px 0px;
 }
 
@@ -52,6 +52,17 @@
     /* justify-content: space-between; */
     flex-wrap: wrap;
     gap: 19px;
+}
+.filter-btn {
+    margin: 3px;
+    cursor: pointer;
+}
+
+.filter-search {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 10px;
 }
 
 
